@@ -130,7 +130,4 @@ GET    /api/health
 * MongoDB me Mongoose
 * TypeScript
 
----
 
-
-Dëshiron që ta thjeshtoj edhe më shumë (pa shpjegime të tepërta si algoritmet BMR/TDEE) apo ta lë kështu?
