@@ -132,7 +132,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="border-t py-8 px-4 bg-muted/30">
         <div className="container mx-auto text-center text-muted-foreground">
-          <p>&copy; 2025 Planner Shëndeti. Të gjitha të drejtat e rezervuara.</p>
+          <p>&copy; 2025  Planner Shëndeti. Të gjitha të drejtat e rezervuara.</p>
         </div>
       </footer>
     </div>
